@@ -1,0 +1,8 @@
+name: ChallengeTmer
+version: '${project.version}'
+main: de.shockbase.challengetimer.Challengetimer
+api-version: 1.18
+prefix: [ ChallengeTimer ]
+authors: [ shockbase ]
+description: A simple challenge timer.
+website: https://shockbase.de
